@@ -1,0 +1,20 @@
+{
+  "name": "xrate",
+  "version": "1.0.0",
+  "description": "Purple Academy Case Study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm start --prefix ./frontend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukasMorong/xrate.git"
+  },
+  "author": "Lukas Morong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LukasMorong/xrate/issues"
+  },
+  "homepage": "https://github.com/LukasMorong/xrate#readme"
+}
